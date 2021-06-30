@@ -1,10 +1,10 @@
 # jokenpo-versus-bot-python
 Just a CLI game to study python. by Joao Sironi
 
-##To play
+## To play
 To play, download the project and run "main.exe"
 
-##libraries
+## libraries
 -colorama
 -os
 -time
